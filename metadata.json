@@ -1,0 +1,6 @@
+{
+  "name": "Simulateur Automatismes - Circuits Commande et Puissance",
+  "description": "Simulation interactive des circuits de commande électrique et de puissance pneumatique (vérins 1C, 2C, distributeurs 1D, 2D, relais KA1) avec résolution détaillée de l'exercice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
